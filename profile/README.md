@@ -11,6 +11,9 @@
 
 we train refugees, youths, interested adults and people with special needs with hardware and electronics repair skills and knowledge for critical transformation and sustainability.repair devices such as solar's,phones,fans,tvs, radios, computer's.
 
+![](Images/IMG_20230302_111954_432.jpg)
+
+
 🏬**2.Documentations using open source softwares and installations**
 
 - GitHub
