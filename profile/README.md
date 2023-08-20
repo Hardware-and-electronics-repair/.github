@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋[![CI](https://github.com/Hardware-and-electronics-repair/.github/actions/workflows/blank.yml/badge.svg)](https://github.com/Hardware-and-electronics-repair/.github/actions/workflows/blank.yml)
 <h1>Hardware and electronics repair organization</h1>
 
  
