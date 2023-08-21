@@ -29,8 +29,7 @@ Activities:
 12. Offering consulting services to organizations and individuals seeking to enhance their electronic systems and designs
 13. Creating a community of electronic enthusiasts that share ideas, expertise, and knowledge
 14. Educating the general public on the importance of electronics and the potential applications in various fields
-15. Building a reputation for excellence in the
-16. electronics industry.
+15. Building a reputation for excellence in the community.
 ![](Images/IMG_20230302_111954_432.jpg)
 **DIY ultra bass amplifier prototype**
 **photo credit**:**papa devices**
